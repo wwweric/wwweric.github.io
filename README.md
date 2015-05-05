@@ -1,0 +1,2 @@
+# wwweric.github.io
+githubpages
