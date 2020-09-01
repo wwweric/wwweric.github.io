@@ -4,15 +4,24 @@ import Helmet from 'react-helmet'
 import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
+
 const HomeIndex = () => {
-  const siteTitle = 'Midori Nakamura portforio site.'
-  const siteDescription = 'Midori Nakamura portforio site.'
+  const siteTitle = 'Midori Nakamura Portforio Site.'
+  const siteDescription = 'Midori Nakamura Portforio Site.'
+  const siteUrl = 'https://wwweric.github.io/'
 
   return (
     <Layout>
       <Helmet>
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={siteTitle} />
+        <meta property="og:site_name" content={siteTitle} />
+        <meta property="og:description" content={siteTitle} />
+        <meta property="og:url" content={siteUrl} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta property="og:image" content="https://wwweric.github.io/ogp_img.jpg" />
       </Helmet>
 
       <div id="main">
