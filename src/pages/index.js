@@ -19,14 +19,14 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Midori Nakamura
+              Midori Nakamura　
               <br />
-              Frontend/Markup engineer
+              Frontend/Markup Engineer
             </h2>
           </header>
           <p>
             2013/4~2016/4 株式会社モンスター・ラボ<br />
-            2016/10~ 自営業<br />
+            2016/10~ フリーランスエンジニア<br />
             <br />
             HTML/CSS/javascript(jquery)/sass/Pug(Jade)/gulp<br />
             Wordpress/Bootstrap/Photoshop/Illustrator<br />
