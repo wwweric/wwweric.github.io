@@ -5,8 +5,8 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
-  const siteDescription = 'Site description'
+  const siteTitle = 'Midori Nakamura portforio site.'
+  const siteDescription = 'Midori Nakamura portforio site.'
 
   return (
     <Layout>
@@ -21,7 +21,7 @@ const HomeIndex = () => {
             <h2>
               Midori Nakamura
               <br />
-              Frontend/Markup engneer
+              Frontend/Markup engineer
             </h2>
           </header>
           <p>
