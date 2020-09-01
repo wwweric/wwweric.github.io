@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 
 const HomeIndex = () => {
   const siteTitle = 'Midori Nakamura Portforio Site.'
-  const siteDescription = 'Midori Nakamura Portforio Site.'
+  const siteDescription = 'Midori Nakamura Portforio Site.なかむらみどりのポートフォリオサイトです。制作実績などを掲載しております。'
   const siteUrl = 'https://wwweric.github.io/'
 
   return (
@@ -18,7 +18,7 @@ const HomeIndex = () => {
         <meta property="og:type" content="website" />
         <meta property="og:title" content={siteTitle} />
         <meta property="og:site_name" content={siteTitle} />
-        <meta property="og:description" content={siteTitle} />
+        <meta property="og:description" content={siteDescription} />
         <meta property="og:url" content={siteUrl} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="og:image" content="https://wwweric.github.io/ogp_img.jpg" />
