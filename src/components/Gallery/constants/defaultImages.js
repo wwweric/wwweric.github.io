@@ -7,14 +7,14 @@ import thumb03 from '../../../assets/images/thumbs/asougi.png'
 
 
 export const DEFAULT_IMAGES = [
-    {
-      id: '1',
-      source: full01,
-      thumbnail: thumb01,
-      links: "https://kappo-kasahara.com",
-      caption: '割烹かさ原',
-      description: '三軒茶屋の割烹かさ原さまのサイトのマークアップを行いました。PCとSPのみ対応しております。使用スキル：sass、pug、gulp、bootstrapなど',
-    },
+    // {
+    //   id: '1',
+    //   source: full01,
+    //   thumbnail: thumb01,
+    //   links: "https://kappo-kasahara.com",
+    //   caption: '割烹かさ原',
+    //   description: '三軒茶屋の割烹かさ原さまのサイトのマークアップを行いました。PCとSPのみ対応しております。使用スキル：sass、pug、gulp、bootstrapなど',
+    // },
     {
       id: '2',
       source: full02,
