@@ -37,9 +37,7 @@ const HomeIndex = () => {
             2013/4~2016/4 株式会社モンスター・ラボ<br />
             2016/10~ フリーランスエンジニア<br />
             <br />
-            HTML/CSS/javascript(jquery)/sass/Pug(Jade)/gulp<br />
-            Wordpress/Bootstrap/Photoshop/Illustrator<br />
-            Git/Terminal  etc...<br />
+            HTML/CSS/sass/Pug(Jade)/javascript(jquery)/gulp/Bootstrap/Wordpress/  etc...<br />
           </p>
         </section>
 
